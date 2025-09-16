@@ -1,0 +1,39 @@
+# Entornos Virtuales de Python
+# No subir nunca las dependencias, solo el archivo de requerimientos (si lo hubiera)
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Artefactos y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Archivos de IDEs y editores de texto
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del Sistema Operativo
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de build y distribución
+/build/
+/dist/
+*.egg-info/
