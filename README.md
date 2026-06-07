@@ -1,14 +1,14 @@
 ![Banner del plan de estudio](https://i.imgur.com/wKYTVLw.jpeg)
 
-# Plan de formación autodidacta pre-ingeniería informática
+# Plan de formación autodidacta en Ingeniería de Software
 
 ## Introducción
 
-Este documento constituye un plan de estudio formal y estructurado, diseñado para guiar a un estudiante sin conocimientos previos a través de los fundamentos de la ingeniería informática y el desarrollo de software. Su propósito es establecer una base de conocimiento sólida y coherente que facilite la transición a la educación superior y potencie el rendimiento académico desde el primer semestre.
+Este documento constituye un plan de estudio formal y estructurado, diseñado para guiar a cualquier persona, con o sin conocimientos previos, a través de los fundamentos, prácticas y arquitecturas propias de la Ingeniería de Software. Su propósito es establecer una ruta de aprendizaje integral que permita al estudiante adquirir competencias de nivel profesional, capacitándolo para resolver problemas complejos, desarrollar aplicaciones escalables y competir exitosamente en la industria tecnológica actual.
 
-El enfoque pedagógico se basa en un modelo de aprendizaje progresivo y en espiral, donde los conceptos se introducen de manera fundamental y se revisitan posteriormente con mayor profundidad y complejidad. Este plan ha sido alineado con el análisis de las mallas curriculares de primer y segundo nivel de prestigiosas instituciones chilenas, tales como la Universidad de Chile, Duoc UC, AIEP y la Universidad Austral de Chile, asegurando la relevancia de los contenidos en asignaturas clave como "Fundamentos de Programación", "Nivelación Matemática", "Introducción a Cloud Computing" y "Base de Datos Aplicada I".
+El enfoque pedagógico se basa en un modelo de aprendizaje progresivo y en espiral, donde los conceptos se introducen desde sus bases fundamentales y se revisitan posteriormente con mayor profundidad técnica. Este plan ha sido construido tomando como referencia tanto las mallas curriculares de prestigiosas instituciones de educación superior, como las demandas reales del mercado laboral. Así, se asegura la relevancia en áreas clave como "Fundamentos de Programación", "Arquitectura de Software", "Bases de Datos Aplicadas", "Cloud Computing" y "Prácticas DevOps".
 
-La estructura se divide en cuatro fases cronológicas, cada una con objetivos de aprendizaje específicos. La Fase 1 se centra en los fundamentos conceptuales y el pensamiento computacional. La Fase 2 introduce la programación estructurada. La Fase 3 aborda la gestión de datos y la computación en la nube. Finalmente, la Fase 4 explora tópicos avanzados y consolida la preparación para el entorno universitario. Los anexos proveen una metodología de estudio y un cronograma detallado de hitos prácticos para asegurar la aplicación constante del conocimiento.
+La estructura se divide en fases cronológicas, cada una con objetivos de aprendizaje y proyectos específicos. La Fase 1 se centra en los fundamentos conceptuales y el pensamiento lógico-matemático. La Fase 2 introduce la programación y el diseño de algoritmos. La Fase 3 aborda la persistencia de datos y la computación en la nube. Finalmente, la Fase 4 explora tópicos avanzados y el desarrollo de proyectos complejos, consolidando un portafolio sólido para la inserción profesional. Los anexos proveen una metodología de estudio y un cronograma detallado de hitos prácticos para asegurar la aplicación constante del conocimiento.
 
 ---
 
