@@ -65,6 +65,7 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 **Objetivos de aprendizaje:**
 1. Explicar el funcionamiento de internet y componentes como DNS e IPs.
 2. Definir el concepto de virtualización y su impacto en servidores y escalabilidad.
+3. Comprender qué es un contenedor (ej. Docker) y en qué se diferencia de una máquina virtual.
 
 **Plan de estudio:**
 
@@ -81,6 +82,15 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 * **Recursos recomendados:**
   * [¿Qué es una máquina virtual? - Coursera](https://www.coursera.org/mx/articles/what-is-a-virtual-machine)
   * [¿Qué es la virtualización?](https://www.ibm.com/es-es/topics/virtualization).
+  * [Taller práctico Máquinas virtuales - Opción 1](https://www.youtube.com/watch?v=uiFZUfmFAus)
+  * [Taller práctico Máquinas virtuales - Opción 2](https://www.youtube.com/watch?v=CLdHQPyHeN0)
+
+#### **Tema C: Contenedores y su diferencia con Máquinas Virtuales.**
+* Introducción a la tecnología de contenedores (como Docker). Explicar por qué la industria migró de usar solo máquinas virtuales (VMs) a empaquetar aplicaciones en contenedores ligeros y portables.
+* **Recursos recomendados:**
+  * [¿Por qué todos usan contenedores hoy? Historia y comparativa con VMs)](https://www.youtube.com/watch?v=v8lpw8zrD_0)
+  * [Máquinas Virtuales y Contenedores - ¿Qué son? ¿A qué huelen? ¿Para qué sirven?](https://www.youtube.com/watch?v=mzo2OjcSxag)
+  * [La historia de los contenedores - Desde 1979 a 2021](https://www.youtube.com/watch?v=K0nHZlHNfQ4)
 
 ### Módulo 1.3: Ciclo de Vida del Software (SDLC) y Fundamentos Cloud/Bases de Datos
 
@@ -109,7 +119,10 @@ Aquí comienza el núcleo duro del rol del SDM. Debes entender que la TI no se t
 ITIL (Information Technology Infrastructure Library) es el estándar mundial para la gestión de servicios de TI.
 * **Conceptos clave:** Gestión de Incidentes (cuando algo se rompe), Gestión de Problemas (la causa raíz de los incidentes recurrentes), Gestión de Cambios (despliegues de nuevo código) y Centro de Servicio al Usuario (Service Desk).
 * **Recursos recomendados:**
-  * [Curso ITIL 4 Foundation Español - Lista de reproducción de Youtube](https://www.youtube.com/results?search_query=curso+itil+4+foundation+espa%C3%B1ol) *(Existen múltiples cursos gratuitos completos).*
+  * [¿Qué es ITIL 4?](https://www.youtube.com/watch?v=20WlkQ5qwcU)
+  * [¿Qué es ITSM?](https://www.youtube.com/watch?v=3NuL-I_pTL0)
+  * [Curso ITIL 4 Foundation Español - Curso 1](https://www.youtube.com/playlist?list=PLp5yhJ4S9Euty2CyHK3g3vu3Zf0zsaWvj).
+  * [Curso ITIL 4 Foundation Español - Curso 2](https://www.youtube.com/playlist?list=PLf8XMtbjh0dXYbPWjg-d5GifMXWuiKv5-).
   * [Conceptos Clave de ITIL 4 por Atlassian](https://www.atlassian.com/es/itsm/itil).
 
 ### Módulo 2.2: Acuerdos de Nivel de Servicio (SLA, SLO, SLI)
