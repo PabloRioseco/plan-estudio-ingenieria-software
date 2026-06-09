@@ -74,8 +74,12 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 * **Recursos recomendados:**
   * [¿Cómo funciona Internet? - Video Explicativo](https://www.youtube.com/watch?v=G21kuUwsfeA&ab_channel=Byteando).
   * [¿Qué es el DNS? | Cómo funciona el DNS - Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+  * [¿Qué es una CDN y por qué deberías activarla YA en tu web?](https://www.youtube.com/watch?v=16A6gDevptM)
   * [¡La historia completa de la web en 40 minutos!](https://www.youtube.com/watch?v=NWUZCTTLQcg&ab_channel=EDteam)
   * [¿Qué es y cómo funciona HTTPS?](https://www.youtube.com/watch?v=60606AHuq8c&ab_channel=EDteam)
+  * [Encriptación (Cifrado) Simétrica y Asimétrica](https://www.youtube.com/watch?v=wDpqrasDmxM)
+  * [Criptografía 🔐 ¿Qué es y por qué es importante para todos?](https://www.youtube.com/watch?v=M54vqFz1Z1Y)
+  * [¿Cómo funciona el cifrado de información?](https://www.youtube.com/watch?v=dChr0TyQ6yc)
 
 #### **Tema B: Introducción a la virtualización.**
 * Crear una versión virtual de un recurso (servidores virtuales). Esto da paso a entender cómo los equipos despliegan código sin hardware físico.
