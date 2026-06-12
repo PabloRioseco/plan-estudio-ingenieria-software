@@ -114,8 +114,16 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 2. Distinguir las responsabilidades entre Frontend, Backend, QA y SRE/DevOps.
 
 **Recursos recomendados:**
-* [El ciclo de vida del software (SDLC) explicado](https://www.youtube.com/watch?v=qXvJ8w5oY-Q) *(Busca "Software Development Life Cycle español")*.
+* [Sabes como se hace Software? Aqui las 4 etapas y roles](https://www.youtube.com/watch?v=Rna-Gl2B8ao)
+* [¿Qué es el ciclo de vida del desarrollo de software (SDLC)?](https://aws.amazon.com/es/what-is/sdlc/)
+* [SDLC-01. Ciclo de vida del Desarrollo de Software](https://www.youtube.com/watch?v=7Wsm07RmDpk)
+* [Ciclo de Vida del Desarrollo de Software (SDLC)](https://www.youtube.com/watch?v=NQ5fMOhGVmo)
+* [Software Development Life Cycle (SDLC) in 7 Minutes!](https://www.youtube.com/watch?v=mmVXL0LzLks)
+* [Roles ágiles en Desarrollo de Software](https://www.youtube.com/watch?v=WkJyYsEaRSs)
+* [Roles tradicionales y Stakeholders en Desarrollo de Software 🎙️](https://www.youtube.com/watch?v=9u3Nvwhg9p4)
+* [¿Cuales son los roles en el desarrollo web?](https://www.youtube.com/watch?v=-qlU9j5LR7Y)
 * [Frontend vs Backend vs DevOps - Diferencias](https://www.youtube.com/watch?v=BqBItx6Q0U4).
+* [Los roles en backend- La mejor explicación en español](https://www.youtube.com/watch?v=ZTsi1e-VJIU)
 
 ### Módulo 2.2: Git, GitHub y Control de Versiones
 
