@@ -53,7 +53,7 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 **Recursos recomendados:**
 * [Curso completo de informática básica desde cero para principiantes \[Videos 1 al 9\]](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo).
 * [Conocimientos básicos de PC - Aprende.org](https://aprende.org/cursos/view/213).
-* [¿Qué es hardware y software?](https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/)
+* [¿Qué diferencias hay entre hardware y software?](https://www.unir.net/revista/ingenieria/diferencias-hardware-software/)
 
 ### Módulo 1.2: Sistemas Operativos y la Terminal de Comandos (Linux)
 
@@ -62,8 +62,13 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 2. Aprender a navegar por el sistema y gestionar archivos usando únicamente comandos de texto (Bash). Un paso innegociable hacia roles Cloud o SRE.
 
 **Recursos recomendados:**
-* [Curso Básico de Linux desde Cero - EDteam](https://www.youtube.com/watch?v=N_8qW5c4wM8)
-* [Los 50 Comandos de Linux más utilizados - Pelado Nerd](https://www.youtube.com/watch?v=D-w_N2q7Kzc)
+* [Por qué aprender Linux - Platzi](https://www.youtube.com/watch?v=rieFzuJfRN0)
+* [Introducción a la terminal](https://ed.team/cursos/terminal-linux)
+* [Curso completo de Linux desde cero para principiantes](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A)
+* [Aprende linux ahora! curso desde cero para principiantes](https://www.youtube.com/watch?v=L906Kti3gzE)
+* [Curso completo de Linux: Aprende desde cero hasta dominar la Terminal](https://www.youtube.com/playlist?list=PL9k8nMt_92ov49QzxA5RLtVo6TRZsAdA7)
+* [Introducción a Linux (LF-UPV-101x)](https://training.linuxfoundation.org/training/introduccion-a-linux-lf-upv-101x/)
+* [Fundamentos de Linux](https://www.netacad.com/es/courses/fundamentos-de-linux?courseLang=es-XL)
 
 ### Módulo 1.3: Ecosistema de Internet, Redes y Seguridad
 
