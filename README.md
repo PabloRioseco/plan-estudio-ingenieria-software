@@ -132,8 +132,11 @@ Esta fase establece el modelo mental necesario sobre el funcionamiento de los co
 2. Comprender qué es un repositorio, un "commit", una "rama" (branch) y un "Pull Request".
 
 **Recursos recomendados:**
-* [Git y GitHub desde Cero - Fazt](https://www.youtube.com/watch?v=HiXLkL42CPQ) *(Ver la parte conceptual inicialmente).*
-* [¿Qué es Git y GitHub? Explicación animada](https://www.youtube.com/watch?v=3fUBtghhl6k)
+* [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
+* [¿Qué es Git y GitHub? - Repositorios, ramas y mucho más](https://www.youtube.com/watch?v=DinilgacaWs)
+* [Aprende GIT ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=VdGzPZ31ts8)
+* [Curso de GIT desde CERO (Completo)](https://www.youtube.com/watch?v=9ZJ-K-zk_Go)
+* [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE&t=10846s)
 
 ### Módulo 2.3: Cloud Computing, Bases de Datos y SQL Práctico
 
